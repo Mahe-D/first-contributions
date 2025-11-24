@@ -1480,6 +1480,7 @@ Maqsood Ansari
 - [karan gohel] (https://github.com/karangohel09)
 - Saksham Tomar
 - [Najmul Arifeen](https://github.com/najmularifeen786)
+- [Milhane](https://github.com/chmilhane)
 - [Menschenkind](https://github.com/menschenkind)
 - [SummerAgain2025]
 - Areeba Adeen (https://github.com/AreebaAdeenMalik)
@@ -1497,3 +1498,4 @@ Maqsood Ansari
 - [Alex-new-tech](https://github.com/Alex-new-tech)
 - [Kanelle-C]
 - [Abel](https://github.com/AbelQ11)
+- [Abdessamad-Mechouahi](https://github.com/abdessamad-26)
